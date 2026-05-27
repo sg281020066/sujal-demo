@@ -4,3 +4,7 @@ This is my first git repository.
 Author - Sujal Gupta
 <br>
 git push origin main
+# Heading
+## Subheading 
+-Bullet points
+**Bold**
