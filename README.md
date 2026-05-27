@@ -9,3 +9,5 @@ git push origin main
 -Bullet points
 <br>
 **Bold**
+node_modules/
+.env
